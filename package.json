@@ -1,0 +1,21 @@
+{
+  "name": "practicawebscraping1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^24.9.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "xlsx": "^0.18.5"
+  }
+}
